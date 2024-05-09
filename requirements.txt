@@ -1,0 +1,10 @@
+altair
+folium
+matplotlib
+numpy
+pandas
+plotly
+streamlit
+streamlit_extras
+streamlit_folium
+taipy
